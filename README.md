@@ -26,7 +26,7 @@
   <b>Software & IDEs:</b><br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="40" height="40"/> &nbsp;
-  <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="kaggle" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40"/>&nbsp;
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/>&nbsp;
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="streamlit" width="80" height="40"/>&nbsp;
   <img src="https://lightning.ai/images/logos/lightning-icon.svg" alt="lightning" width="40" height="40"/>
