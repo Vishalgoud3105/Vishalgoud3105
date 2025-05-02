@@ -7,6 +7,6 @@
 
 🌱 Learning: Generative AI, Japanese (A1), Edge AI  
 
-💡 Projects: 
+💡 Projects: [My Projects](https://github.com/Vishalgoud3105?tab=repositories)
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vishalgoud3105/) | [Portfolio](https://yourportfolio.com)
