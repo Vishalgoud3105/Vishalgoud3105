@@ -12,13 +12,17 @@
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vishalgoud3105/) | [Portfolio](https://yourportfolio.com)
 
 <h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">Aspiring AIML Engineer | Final Year B.Tech Student</h3>
+<h3 align="center">Aspiring AIML Engineer</h3>
 
-- 🎓 I Graduated **B.Tech in Artificial Intelligence & Machine Learning** at JBIET, Hyderabad  
-- 🌱 I’m currently learning **Generative AI, Edge AI, and Japanese (A1 Level)**  
-- 💡 My interests include **Computer Vision, Object Detection, and Fitness Tech using AI**   
-- 📂 All of my projects are available at [https://vishaldev-ai.github.io/Portfolio/](https://vishaldev-ai.github.io/Portfolio/)  
-- 📫 How to reach me: **vishal.aiml03@gmail.com**
+- 🎓 Graduated **B.Tech in Artificial Intelligence & Machine Learning** at JBIET, Hyderabad
+ 
+- 🌱 I’m currently learning **Generative AI, Prompt Engineering, and Japanese (Beginneer level)**
+  
+- 💡 My interests include **Computer Vision, Deep Learning, Object Detection, Generative AI, Prompt Engineering, AI in Sports, Real-Time Applications, and Autonomous Systems**
+  
+- 📂 All of my projects are available at [My Repository](https://github.com/Vishalgoud3105?tab=repositories)
+  
+- 📫 How to reach me: **vishalgoud3105@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
