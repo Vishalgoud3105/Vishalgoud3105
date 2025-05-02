@@ -9,4 +9,4 @@
 
 💡 Projects: 
 
-📫 Reach me: [LinkedIn]([https://linkedin.com/in/your-link]) | [Portfolio](https://yourportfolio.com)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vishalgoud3105/) | [Portfolio](https://yourportfolio.com)
