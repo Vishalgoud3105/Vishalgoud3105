@@ -47,10 +47,10 @@
 
 <p align="left">
   <b>Frameworks & Libraries:</b><br/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> TensorFlow &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="60" height="40"/> OpenCV &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="60" height="40"/> Keras &nbsp;
-  <img src="https://mediapipe.dev/images/mediapipe_logo.png" alt="mediapipe" width="60" height="40"/> MediaPipe
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="60" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="60" height="40"/>&nbsp;
+  <img src="https://mediapipe.dev/images/mediapipe_logo.png" alt="mediapipe" width="60" height="40"/>
 </p>
 
 <p align="left">
