@@ -37,7 +37,7 @@
 
 <p align="left">
   <b>Software & IDEs:</b><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> Visual Studio Code &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> &nbsp;
   <img src="https://avatars.githubusercontent.com/u/1728152?s=200&v=4" alt="colab" width="40" height="40"/>&nbsp;
   <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="kaggle" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="fastapi" width="40" height="40"/>&nbsp;
