@@ -26,10 +26,10 @@
   <b>Software & IDEs:</b><br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="40" height="60"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40"/>&nbsp;
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="60" height="25"/>&nbsp;
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="streamlit" width="80" height="40"/>&nbsp;
-  <img src="[https://lightning.ai/images/logos/lightning-icon.svg](https://www.google.com/imgres?q=lightning%20ai%20png&imgurl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F58386951%3Fs%3D200%26v%3D4&imgrefurl=https%3A%2F%2Fgithub.com%2Flightning-ai&docid=nG30TB_rvkDIiM&tbnid=asVFDgoLkzm3-M&vet=12ahUKEwin7e7KjoWNAxXJfGwGHUtcGIkQM3oECGAQAA..i&w=200&h=200&hcb=2&ved=2ahUKEwin7e7KjoWNAxXJfGwGHUtcGIkQM3oECGAQAA)" alt="lightning" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="60" height="60"/>&nbsp;
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="80" height="30"/>&nbsp;
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="streamlit" width="100" height="40"/>&nbsp;
+  <img src="https://lightning.ai/images/logos/lightning-icon.svg" alt="lightning" width="60" height="40"/>
 </p>
 
 <p align="left">
