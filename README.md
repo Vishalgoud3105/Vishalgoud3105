@@ -38,11 +38,11 @@
 <p align="left">
   <b>Software & IDEs:</b><br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> Visual Studio Code &nbsp;
-  <img src="https://avatars.githubusercontent.com/u/1728152?s=200&v=4" alt="colab" width="40" height="40"/> Google Colab &nbsp;
-  <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="kaggle" width="40" height="40"/> Kaggle &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="fastapi" width="40" height="40"/> FastAPI &nbsp;
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="streamlit" width="90" height="40"/> Streamlit &nbsp;
-  <img src="https://raw.githubusercontent.com/Lightning-AI/lightning.ai/main/docs/source/_static/images/lightning-icon.svg" alt="lightning" width="40" height="40"/> Lightning AI
+  <img src="https://avatars.githubusercontent.com/u/1728152?s=200&v=4" alt="colab" width="40" height="40"/>&nbsp;
+  <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="kaggle" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="fastapi" width="40" height="40"/>&nbsp;
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="streamlit" width="90" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Lightning-AI/lightning.ai/main/docs/source/_static/images/lightning-icon.svg" alt="lightning" width="40" height="40"/>
 </p>
 
 <p align="left">
@@ -55,7 +55,7 @@
 
 <p align="left">
   <b>Technical Skills:</b><br/>
-  CNN • YOLO • U-Net • Image Segmentation • Object Detection • Generative AI • Prompt Engineering
+  CNN • YOLO • U-Net • Image Segmentation • Object Detection • Computer Vision • Generative AI • Prompt Engineering
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalgoud3105&show_icons=true&locale=en&layout=compact" alt="vishalgoud3105" /></p>
