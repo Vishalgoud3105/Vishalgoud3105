@@ -1,16 +1,3 @@
-# Hi, I'm Vishal 👋
-🎓 BTech Graduated | AI & ML | JBIET, Hyderabad  
-
-👨‍💻 ML Developer | Software Engineer | OpenCV Enthusiast  
-
-🚀 Currently working on: LeYOLO - Advanced Object Detection Model  
-
-🌱 Learning: Generative AI, Japanese (A1), Edge AI  
-
-💡 Projects: [My Projects](https://github.com/Vishalgoud3105?tab=repositories)
-
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vishalgoud3105/) | [Portfolio](https://yourportfolio.com)
-
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">Aspiring AIML Engineer</h3>
 
@@ -18,9 +5,9 @@
  
 - 🌱 I’m currently learning **Generative AI, Prompt Engineering, and Japanese (Beginneer level)**
   
-- 💡 My interests include **Computer Vision, Deep Learning, Object Detection, Generative AI, Prompt Engineering, AI in Sports, Real-Time Applications, and Autonomous Systems**
+- 💡 My interests include **Computer Vision, Machine Learning and Deep Learning, Object Detection, Generative AI, Prompt Engineering, AI in Sports, Real-Time Applications, and Autonomous Systems**
   
-- 📂 All of my projects are available at [My Repository](https://github.com/Vishalgoud3105?tab=repositories)
+- 📂 All of my projects are available at [**My Repository**](https://github.com/Vishalgoud3105?tab=repositories)
   
 - 📫 How to reach me: **vishalgoud3105@gmail.com**
 
@@ -39,7 +26,7 @@
   <b>Software & IDEs:</b><br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40"/>&nbsp;
+  <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="kaggle" width="40" height="40"/>&nbsp;
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/>&nbsp;
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="streamlit" width="80" height="40"/>&nbsp;
   <img src="https://lightning.ai/images/logos/lightning-icon.svg" alt="lightning" width="40" height="40"/>
