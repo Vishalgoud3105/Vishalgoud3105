@@ -11,7 +11,7 @@
   
 - 📫 How to reach me: **vishalgoud3105@gmail.com**
 
-- 👨‍💻 About Me: [**Portfolio**](#https://vishalgoud3105.github.io/Portfolio/)
+- 👨‍💻 About Me: [**Portfolio**](https://vishalgoud3105.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
