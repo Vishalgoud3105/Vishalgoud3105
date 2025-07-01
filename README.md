@@ -3,7 +3,7 @@
 
 - 🎓 Graduated **B.Tech in Artificial Intelligence & Machine Learning** at JBIET, Hyderabad
  
-- 🌱 I’m currently learning **Generative AI, Prompt Engineering, and Japanese (Beginneer level)**
+- 🌱 I’m currently learning **Generative AI, Prompt Engineering**
   
 - 💡 My interests include **Computer Vision, Machine Learning and Deep Learning, Object Detection, Generative AI, Prompt Engineering, AI in Sports, Real-Time Applications, and Autonomous Systems**
   
