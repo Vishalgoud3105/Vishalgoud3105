@@ -31,7 +31,6 @@
   <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="60" height="40"/>&nbsp;
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="100" height="80"/>&nbsp;
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="streamlit" width="100" height="60"/>&nbsp;
-  <img src="https://lightning.ai/images/logos/lightning-icon.svg" alt="lightning" width="60" height="40"/>
 </p>
 
 <p align="left">
