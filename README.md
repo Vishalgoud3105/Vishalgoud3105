@@ -24,10 +24,6 @@
 <p align="left">
   <b>Programming Languages:</b><br/>
   <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" alt="seaborn" width="40" height="40"/> &nbsp;
 </p>
 
 <!-- Software & IDEs -->
@@ -51,7 +47,11 @@
   <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> &nbsp;
   <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> &nbsp;
   <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> &nbsp;
-  <img src="https://avatars.githubusercontent.com/u/39642404?s=200&v=4" alt="mediapipe" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" alt="seaborn" width="40" height="40"/> &nbsp;
+  <img src="https://viz.mediapipe.dev/logo.png" alt="mediapipe" width="40" height="40"/> &nbsp;
 </p>
 
 <p align="left">
@@ -60,4 +60,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalgoud3105&show_icons=true&locale=en&layout=compact" alt="vishalgoud3105" /></p>
-
