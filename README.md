@@ -19,26 +19,39 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+<!-- Programming Languages -->
 <p align="left">
   <b>Programming Languages:</b><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" alt="seaborn" width="40" height="40"/> &nbsp;
 </p>
 
+<!-- Software & IDEs -->
 <p align="left">
   <b>Software & IDEs:</b><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="60" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="60" height="40"/>&nbsp;
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="100" height="80"/>&nbsp;
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="streamlit" width="100" height="60"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=colab" alt="colab" width="40" height="40"/> &nbsp;
 </p>
 
+<!-- Frameworks & Libraries -->
 <p align="left">
   <b>Frameworks & Libraries:</b><br/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="60" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="60" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/39642404?s=200&v=4" alt="mediapipe" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit-learn" width="40" height="40"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/39642404?s=200&v=4" alt="mediapipe" width="40" height="40"/> &nbsp;
 </p>
 
 <p align="left">
