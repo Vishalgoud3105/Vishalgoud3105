@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishal</h1>
+<h1 align="center">👋Hi, I'm Vishal</h1>
 <h3 align="center">Aspiring AIML Engineer</h3>
 
 - 🎓 Graduated **B.Tech in Artificial Intelligence & Machine Learning** at JBIET, Hyderabad
