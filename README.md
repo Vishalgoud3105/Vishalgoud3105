@@ -1,11 +1,11 @@
 <h1 align="center">👋Hi, I'm Vishal</h1>
-<h3 align="center">Aspiring AIML Engineer</h3>
+<h3 align="center">Computer Vision Engineer | AI/ML Specialist</h3>
 
 - 🎓 Graduated **B.Tech in Artificial Intelligence & Machine Learning** at JBIET, Hyderabad
- 
-- 🌱 I’m currently learning **Generative AI, Prompt Engineering, AWS**
   
-- 💡 My interests include **Computer Vision, Machine Learning and Deep Learning, Object Detection, Generative AI, Prompt Engineering, AI in Sports, Real-Time Applications, and Autonomous Systems**
+- 🌱 I'm currently learning **Edge AI, IOT & ROS AI, Generative AI, Advanced Prompt Engineering, AWS Cloud Architecture, Real-time AI Systems**
+  
+- 💡 My interests include **Computer Vision, Object Detection & Tracking (YOLO, DeepSORT), Real-Time Video Processing, Deep Learning, Generative AI, Cloud Deployment (AWS), Production-Grade AI Systems**
   
 - 📂 All of my projects are available at [**My Repository**](https://github.com/Vishalgoud3105?tab=repositories)
   
@@ -26,37 +26,48 @@
   <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> &nbsp;
 </p>
 
+<!-- Frameworks & Libraries -->
+<p align="left">
+  <b>Frameworks & Libraries:</b><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/26833451?s=200&v=4" alt="ultralytics" width="40" height="40"/> &nbsp;
+  <img src="https://viz.mediapipe.dev/logo.png" alt="mediapipe" width="40" height="40"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit-learn" width="40" height="40"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> &nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> &nbsp;
+</p>
+
+<!-- Cloud & DevOps -->
+<p align="left">
+  <b>Cloud & DevOps:</b><br/>
+  <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" width="40" height="40"/> &nbsp;
+</p>
+
 <!-- Software & IDEs -->
 <p align="left">
   <b>Software & IDEs:</b><br/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=colab" alt="colab" width="40" height="40"/> &nbsp;
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/> &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/53104118?s=280&v=4" alt="roboflow" width="40" height="40"/> &nbsp;
 </p>
 
-<!-- Frameworks & Libraries -->
+<!-- Domain Knowledge -->
 <p align="left">
-  <b>Frameworks & Libraries:</b><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit-learn" width="40" height="40"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" alt="seaborn" width="40" height="40"/> &nbsp;
-  <img src="https://viz.mediapipe.dev/logo.png" alt="mediapipe" width="40" height="40"/> &nbsp;
-</p>
-
-<p align="left">
-  <b>Technical Skills:</b><br/>
-  CNN • YOLO • U-Net • Image Segmentation • Object Detection • Computer Vision • Generative AI • Prompt Engineering
+  <b>Domain Knowledge:</b><br/>
+  Generative AI • Object Detection & Tracking (YOLO, DeepSORT) • Real-time Video Processing • RTSP Streaming • Prompt Engineering • CNN Architectures • Image Segmentation • TensorRT Optimization
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalgoud3105&show_icons=true&locale=en&layout=compact" alt="vishalgoud3105" /></p>
